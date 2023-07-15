@@ -4,6 +4,7 @@ const cors = require('cors');
 // const { v4: uuidv4 } = require('uuid');
 
 const app = express();
+// Teste
 
 app.use(cors());
 app.use(express.json());
